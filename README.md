@@ -1,1 +1,2 @@
 # typescriptLearn
+プログラミングTypeScriptの学習
